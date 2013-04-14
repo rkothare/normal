@@ -14,5 +14,3 @@ Insert the following into the `<head>` section of your HTML.
 
 
 YAY.
-
-HOW ARE YOU?
